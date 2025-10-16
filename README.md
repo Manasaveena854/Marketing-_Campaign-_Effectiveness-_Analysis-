@@ -49,7 +49,7 @@ marketing-campaign-analysis/
 
   dashboards/campaign_dashboard.pbix
   
- Key Insights:
+🧮 Key Insights:
 
 Identified top-performing marketing channels by conversion rate and cost-effectiveness.
 
@@ -57,7 +57,7 @@ Analyzed patient admissions linked to campaigns, helping measure ROI for each ch
 
 Created interactive Power BI visuals for admissions, campaign reach, and patient segmentation.
 
-Tools & Technologies:
+🧰 Tools & Technologies:
 
 Python – Pandas, NumPy, Seaborn, Matplotlib
 
